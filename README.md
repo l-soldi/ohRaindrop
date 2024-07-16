@@ -6,7 +6,7 @@ _React developer_ at [codermine](https://github.com/codermine)
 const Linda = {
   pronouns: "She/Her",
   code: ["Javascript/Typescript", "HTML", "CSS"],
-  askMeAbout: ["web dev", "tech", "gaming", "interior design", "my cats"],
+  askMeAbout: ["web dev", "tech", "gaming", "interior design", "my cats", "skincare!!"],
   technologies: {
     Frontend: {
       js: ["React"],
