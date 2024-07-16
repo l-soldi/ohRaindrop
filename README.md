@@ -5,22 +5,22 @@ _React developer_ at [codermine](https://github.com/codermine)
 ```typescript
 const Linda = {
   pronouns: "She/Her",
-    code: ["Javascript", "HTML", "Css"],
-    askMeAbout: ["web dev", "tech", "gaming", "interior design"],
-    technologies: {
-        Frontend: {
-            js: ["React"],
-            nextInLine: ["Vue", "Ember"]
-        },
-        Backend: {
-            basis: ["Phyton"]
-        }
-    },
-    architecture: {
-        known: ["Single page applications"],
-        nextInLine: ["Progressive web applications"],
-    },
-    currentFocuses: ["Work on new personal projects", "Get my degree in CS"]
+  code: ["Javascript/Typescript", "HTML", "CSS"],
+  askMeAbout: ["web dev", "tech", "gaming", "interior design", "my cats"],
+  technologies: {
+    Frontend: {
+      js: ["React"],
+      nextInLine: ["Vue", "Ember"]
+      },
+    Backend: {
+      basic: ["Phyton"]
+    }
+  },
+  architecture: {
+    known: ["Single page applications"],
+    nextInLine: ["Progressive web applications"],
+  },
+  currentFocuses: ["Work on new personal projects", "Get my degree in CS"]
 }
 ```
 
