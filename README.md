@@ -14,6 +14,11 @@ const Linda = {
       },
     Backend: {
       basic: ["Phyton"]
+    },
+    UXUI: {
+      basic: ["Figma"],
+      middle: ["Responsiveness"],
+      courses: ["edEx - Accessibility"]
     }
   },
   architecture: {
