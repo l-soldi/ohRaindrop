@@ -1,10 +1,12 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ohraindrop&label=Profile%20views&color=0e75b6&style=flat" alt="ohraindrop" /> </p>
 <h1 align="center">Hi 👋, I'm Linda!</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 <i>React developer</i> at <a href="https://github.com/codermine">codermine</a>
 <br/>
 <br/>
 <br/>
-<h4 align="center">💬 Ask me about **FE development with a sprinkle of python**</h4>
+<p align="center">💬 Ask me about <b>FE development with a sprinkle of python</b></hp>
+<p align="center"> 🌱 while I’m currently learning <b>Emberjs</b> </p>
 
 ### A little about me
 ```typescript
@@ -33,7 +35,7 @@ const Linda = {
   currentFocuses: ["Work on new personal projects", "Get my degree in CS"]
 }
 ```
-<h4 align="center"> 🌱 I’m currently learning **Emberjs** </h4>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ohraindrop" alt="ohraindrop" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -68,7 +70,7 @@ const Linda = {
 <a href="https://stackoverflow.com/users/18395980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18395980" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user5715ja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5715ja" height="30" width="40" /></a>
 </p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ohraindrop&" alt="ohraindrop" /></p>
 
 <!--
 **ohRaindrop/ohRaindrop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
